@@ -1,0 +1,3 @@
+include ':zinglib'
+include ':app'
+rootProject.name = "QRCode"
